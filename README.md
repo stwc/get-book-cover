@@ -15,5 +15,5 @@ go build
 ## TODO
 - [X] Fetch book cover.
 - [ ] Refactor code.
-- [ ] Automatically publish Go binaries to Github Release Assets through Github Action.
+- [x] Automatically publish Go binaries to Github Release Assets through Github Action.
 - [ ] Add more supported sites.
